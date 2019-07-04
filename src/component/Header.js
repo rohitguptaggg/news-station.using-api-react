@@ -8,7 +8,7 @@ class Header extends React.Component {
                         <a href="k.html" className="brand-logo">NewsAdda.com</a>
                         <a href="k.html" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                         <ul id="nav-mobile" clasNames="right hide-on-med-and-down">
-                            <b> <li><a href="sass.html">News</a></li>
+                            <b className="right"> <li><a href="sass.html">News</a></li>
                                 <li><a href="badges.html">Filter</a></li>
                                 <li><a href="collapsible.html">Contact</a></li></b>
                         </ul>
